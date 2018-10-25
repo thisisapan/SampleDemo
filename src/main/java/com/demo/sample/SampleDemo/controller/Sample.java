@@ -12,8 +12,6 @@ public class Sample {
     @GetMapping
     public String initDisp(Model model) {
 
-
-
         return "sample";
     }
 }
